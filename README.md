@@ -14,4 +14,4 @@ Este es un repositorio de práctica que contiene ejemplos relacionadas con activ
 
 
 ## Autor
-Mariana Montengro-Tester de Aplicaciones
+Mariana Montenegro-Tester de Aplicaciones
