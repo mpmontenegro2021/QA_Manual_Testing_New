@@ -1,0 +1,5 @@
+mkdir name_directory
+dir
+cd  name directory
+cd .. 
+rmdir name_directory
